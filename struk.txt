@@ -1,0 +1,9 @@
+============STRUK PENYEWAAN MOTOR============
+Nama Penyewa : Arthadya
+No.ID        : 276
+NO.HP        : 821346
+Alamat       : Godegan
+Total Harga  : 0
+==============================================
+=======Terima Kasih Atas Kunjungan Anda=======
+==============================================
